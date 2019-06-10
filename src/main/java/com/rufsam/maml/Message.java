@@ -1,10 +1,11 @@
+package com.rufsam.maml;
+
 import com.google.common.hash.Hashing;
-import crypto.Keys;
+import com.rufsam.maml.crypto.Keys;
 import org.json.JSONObject;
 
 import java.nio.charset.StandardCharsets;
 import java.security.PublicKey;
-import java.util.Base64;
 
 public class Message {
 

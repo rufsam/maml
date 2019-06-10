@@ -1,9 +1,13 @@
+package com.rufsam.maml;
+
 import java.nio.charset.StandardCharsets;
 import java.security.PrivateKey;
 import java.security.PublicKey;
 import java.util.*;
 
-import crypto.*;
+import com.rufsam.maml.crypto.AES;
+import com.rufsam.maml.crypto.Keys;
+import com.rufsam.maml.crypto.RSA;
 import org.json.JSONObject;
 
 import com.google.common.hash.Hashing;

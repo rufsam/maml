@@ -1,4 +1,4 @@
-package crypto;
+package com.rufsam.maml.crypto;
 
 import java.security.*;
 import java.security.spec.PKCS8EncodedKeySpec;

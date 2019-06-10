@@ -1,4 +1,4 @@
-package crypto;
+package com.rufsam.maml.crypto;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;

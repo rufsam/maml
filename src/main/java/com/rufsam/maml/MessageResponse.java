@@ -1,3 +1,5 @@
+package com.rufsam.maml;
+
 import org.json.JSONObject;
 
 public class MessageResponse {

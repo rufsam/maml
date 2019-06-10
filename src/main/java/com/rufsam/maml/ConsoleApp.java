@@ -1,4 +1,6 @@
-import crypto.RSA;
+package com.rufsam.maml;
+
+import com.rufsam.maml.crypto.RSA;
 
 import java.security.KeyPair;
 import java.util.Scanner;
